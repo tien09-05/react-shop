@@ -1,7 +1,5 @@
 import React, { useCallback, useEffect, useRef, useState } from "react";
 import Helmet from "../../components/helmet/Helmet";
-import Grid from "../../components/grid/Grid";
-import ProductCard from "../../components/product-card/ProductCard";
 import CheckBox from "../../components/checkbox/CheckBox";
 
 import productData from "../../assets/fake-data/products";
